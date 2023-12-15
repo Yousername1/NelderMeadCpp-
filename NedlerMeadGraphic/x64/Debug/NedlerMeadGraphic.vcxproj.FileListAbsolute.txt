@@ -1,0 +1,8 @@
+C:\Users\ram00\Projects\Cpp\IntAnDan2023\NedlerMeadGraphic\x64\Debug\NedlerMeadGraphic.vcxproj.AssemblyReference.cache
+C:\Users\ram00\Projects\Cpp\IntAnDan2023\NedlerMeadGraphic\x64\Debug\NedlerMeadGraphic.Form1.resources
+C:\Users\ram00\Projects\Cpp\IntAnDan2023\NedlerMeadGraphic\x64\Debug\NedlerMeadGraphic.vcxproj.GenerateResource.cache
+C:\Users\ram00\Projects\Cpp\IntAnDan2023\NedlerMeadGraphic\x64\Debug\NedlerMeadGraphic.exe
+C:\Users\ram00\Projects\Cpp\NedlerMeadGraphic\x64\Debug\NedlerMeadGraphic.vcxproj.AssemblyReference.cache
+C:\Users\ram00\Projects\Cpp\NedlerMeadGraphic\x64\Debug\NedlerMeadGraphic.Form1.resources
+C:\Users\ram00\Projects\Cpp\NedlerMeadGraphic\x64\Debug\NedlerMeadGraphic.vcxproj.GenerateResource.cache
+C:\Users\ram00\Projects\Cpp\NedlerMeadGraphic\x64\Debug\NedlerMeadGraphic.exe

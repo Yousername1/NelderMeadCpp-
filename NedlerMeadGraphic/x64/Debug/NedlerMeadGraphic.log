@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+C:\Users\ram00\Projects\Cpp\NedlerMeadGraphic\CppCLR_WinFormsProject.cpp(20,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+  Form1.cpp
+C:\Users\ram00\Projects\Cpp\NedlerMeadGraphic\Form1.cpp(77,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/Form1.cpp')
+  
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  NedlerMeadGraphic.vcxproj -> C:\Users\ram00\Projects\Cpp\NedlerMeadGraphic\x64\Debug\NedlerMeadGraphic.exe
